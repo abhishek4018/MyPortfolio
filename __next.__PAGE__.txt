@@ -1,0 +1,47 @@
+1:"$Sreact.fragment"
+2:"/MyPortfolio/_next/static/chunks/0orqdavd9vsm1.js"
+3:"/MyPortfolio/_next/static/chunks/0d1l5hn63aryf.js"
+4:"CSPostHogProvider"
+5:I[44636,["$2","$3"],"$4"]
+6:I[39756,["$2","$3"],"default"]
+7:I[37457,["$2","$3"],"default"]
+8:I[46696,["$2","$3"],"Toaster"]
+c:"/MyPortfolio/_next/static/chunks/0er8r8rk2wgad.js"
+d:"FounderProtectionShield"
+e:I[52409,["$2","$3","$c"],"$d"]
+f:I[53817,["$2","$3","$c"],"FounderNav"]
+10:I[41266,["$2","$3","$c"],"FounderHero"]
+11:I[92300,["$2","$3","$c"],"FounderAbout"]
+12:I[82995,["$2","$3","$c"],"FounderProjects"]
+13:"FounderArchitecture"
+14:I[31532,["$2","$3","$c"],"$13"]
+15:I[40715,["$2","$3","$c"],"FounderResume"]
+16:I[89193,["$2","$3","$c"],"FounderContact"]
+17:I[23109,["$2","$3","$c"],"FounderFooter"]
+18:I[97367,["$2","$3"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1c:"ViewportBoundary"
+1d:I[97367,["$2","$3"],"$1c"]
+1e:"MetadataBoundary"
+1f:I[97367,["$2","$3"],"$1e"]
+:HL["/MyPortfolio/_next/static/chunks/0_vep_khsjar-.css","style"]
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$Le",null,{"children":["$","div",null,{"className":"w-screen min-h-screen bg-[#191b1e] text-[#c4cfde] selection:bg-transparent selection:text-inherit overflow-x-hidden font-sans select-none","children":[["$","$Lf",null,{}],["$","main",null,{"children":[["$","$L10",null,{}],["$","$L11",null,{}],["$","$L12",null,{}],["$","$L14",null,{}],["$","$L15",null,{}],["$","$L16",null,{}]]}],["$","$L17",null,{}]]}]}],[["$","script","script-0",{"src":"/MyPortfolio/_next/static/chunks/0er8r8rk2wgad.js","async":true}]],["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]]}],"p":"$@1b","v":null,"s":"$a"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/MyPortfolio/_next/static/chunks/0_vep_khsjar-.css","precedence":"next"}],["$","script","script-0",{"src":"/MyPortfolio/_next/static/chunks/0orqdavd9vsm1.js","async":true}],["$","script","script-1",{"src":"/MyPortfolio/_next/static/chunks/0d1l5hn63aryf.js","async":true}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https://*.posthog.com https://*.i.posthog.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com; img-src 'self' data: blob: https://abhishek4018.github.io; connect-src 'self' https://*.posthog.com https://*.i.posthog.com; object-src 'none'; base-uri 'self'; form-action 'self' mailto:; upgrade-insecure-requests"}],["$","meta",null,{"httpEquiv":"X-Content-Type-Options","content":"nosniff"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}]]}],["$","body",null,{"className":"OU16Qa_className","children":["$","$L5",null,{"children":[["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L8",null,{"position":"bottom-right","richColors":true}]]}]}]]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Abhishek Kumar | 0-to-1 Software Builder, Founding AI & Cloud Platform Architect"}],["$","meta","1",{"name":"description","content":"10+ years engineering 0-to-1 production software: 15-container multi-tenant AI SaaS & Expo mobile apps (Vatra Assess, 2,150+ RPS), dual-mode multimodal studios (VatraVox), commercial SMB OS (CarVision), and autonomous QA platforms (NeoFlow-QA)."}],["$","meta","2",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","3",{"property":"og:title","content":"Abhishek Kumar | 0-to-1 Software Builder, Founding AI & Cloud Platform Architect"}],["$","meta","4",{"property":"og:description","content":"Operating as a self-sufficient 0-to-1 software builder across Full-Stack/Mobile, Resilient AI/RAG, GitOps Kubernetes (2,150+ RPS), and Autonomous QA."}],["$","meta","5",{"property":"og:url","content":"https://abhishek4018.github.io/MyPortfolio/"}],["$","meta","6",{"property":"og:site_name","content":"Abhishek Kumar — 0-to-1 Software Builder Portfolio"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:image","content":"https://abhishek4018.github.io/MyPortfolio/founder/abhishek.jpeg"}],["$","meta","9",{"property":"og:image:width","content":"800"}],["$","meta","10",{"property":"og:image:height","content":"1000"}],["$","meta","11",{"property":"og:image:alt","content":"Abhishek Kumar - 0-to-1 Software Builder & Founding AI Architect"}],"$L20","$L21","$L22","$L23","$L24","$L25","$L26"]}]}],null]}],"$L27"]}],"p":"$@28","v":null,"s":"$a"}},"a":"$@29","u":"$@2a","b":"UAk3JEgc-0FmGXlZ0IAaJ"}
+2b:I[27201,["$2","$3"],"IconMark"]
+1a:null
+20:["$","meta","12",{"property":"og:type","content":"website"}]
+21:["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}]
+22:["$","meta","14",{"name":"twitter:title","content":"Abhishek Kumar | 0-to-1 Software Builder, Founding AI & Cloud Platform Architect"}]
+23:["$","meta","15",{"name":"twitter:description","content":"10+ years building 0-to-1 self-healing AI SaaS, multimodal studios, and K6-benchmarked Kubernetes platforms."}]
+24:["$","meta","16",{"name":"twitter:image","content":"https://abhishek4018.github.io/MyPortfolio/founder/abhishek.jpeg"}]
+25:["$","link","17",{"rel":"icon","href":"/MyPortfolio/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}]
+26:["$","$L2b","18",{}]
+27:["$","meta",null,{"name":"next-size-adjust","content":""}]
+a:300
+2a:true
+a:C
+29:0
+9:"$undefined"
+28:"$undefined"
+1b:"$undefined"
